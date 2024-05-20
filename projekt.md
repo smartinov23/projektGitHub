@@ -71,7 +71,7 @@ You can read the full article on [Medium](https://towardsdatascience.com/the-ult
 - [MDX](#mdx)
 - [Tools](#tools)
 
-[logo github](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+![logo github](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 # Headings
 
 ```markdown
