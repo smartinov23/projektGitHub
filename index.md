@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <h1 align="center">
-Kompletni Markdown šalabahter
+:wave: Kompletni Markdown šalabahter :wave:
 </h1>
 
 <br/>
